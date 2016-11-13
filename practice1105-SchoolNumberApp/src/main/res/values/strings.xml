@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySBS03</string>
+    <string name="button_yes">삭제</string>
+    <string name="button_no">편집</string>
+    <string name="alert_title_question">질문</string>
+    <string name="alert_msg_delete">작업을 선택해주세요.</string>
+</resources>
